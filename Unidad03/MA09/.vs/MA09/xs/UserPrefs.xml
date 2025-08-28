@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B2F7EDEC-408C-4544-861F-9FDF1F134212}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MA09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MA09/App.cs">
+    <Files>
+      <File FileName="MA09/App.cs" Line="68" Column="16" />
+      <File FileName="MA09/ClasesGenericas/Caja.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MA09" expanded="True">
+            <Node name="MA09" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True">
+                  <Node name="bibliotecaDeClases" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ClasesGenericas" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

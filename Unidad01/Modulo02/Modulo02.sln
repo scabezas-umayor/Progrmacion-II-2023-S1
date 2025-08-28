@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioBanco-EnClases", "EjercicioBanco-EnClases\EjercicioBanco-EnClases.csproj", "{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioVentas", "EjercicioVentas\EjercicioVentas.csproj", "{C1CB3263-CC79-4A7B-A87B-647A693803EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC1E98F-B4AE-4B0A-88A4-3ADB21C0E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CB3263-CC79-4A7B-A87B-647A693803EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CB3263-CC79-4A7B-A87B-647A693803EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CB3263-CC79-4A7B-A87B-647A693803EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CB3263-CC79-4A7B-A87B-647A693803EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C750DB65-97EC-4F8F-AE62-4C9752093F83}
+	EndGlobalSection
+EndGlobal
